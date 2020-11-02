@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color:slategray;
+    color: aliceblue;
+}
+
+.card-header {
+    background-color: slategray;
+    color: aliceblue;
+}
+body {
+    background-color: black;
+}
+.card-body {
+    background-color: aliceblue;
+}
